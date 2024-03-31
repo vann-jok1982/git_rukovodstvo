@@ -50,7 +50,9 @@
 
 * Fork - сделать клон на свой репозиторий
 
-Pull reguest - отправить запрос на изменения у кого делал Fork
+* Pull reguest - отправить запрос на изменения у кого делал Fork
+
+* ghjjfjfjjnjdnkjkvjskvlsvaksbvkbkfvkfvkavffjdkl;
 
 
  
