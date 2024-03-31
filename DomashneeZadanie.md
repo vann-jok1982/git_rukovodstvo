@@ -52,7 +52,7 @@
 
 * Pull reguest - отправить запрос на изменения у кого делал Fork
 
-* ghjjfjfjjnjdnkjkvjskvlsvaksbvkbkfvkfvkavffjdkl;
+
 
 
  
